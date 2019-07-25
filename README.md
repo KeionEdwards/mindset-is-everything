@@ -1,10 +1,7 @@
 # mindset-is-everything
 mindset is everything
 <!DOCTYPE html>  
-<html lang="en-US" class="no-js">
-<head>
-<meta charset="UTF-8">
-<meta name="google-site-verification" content="REPLACE" />
+
 
 
 
