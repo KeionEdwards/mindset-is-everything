@@ -1,10 +1,6 @@
 # mindset-is-everything
-mindset is everything
+Mindset Is Everything
 <!DOCTYPE html>  
-
-
-
-
 <title>Conquering Unhealthy Mindsets for Real Estate Success for Real Estate Success  | Keion D Edwards MBA</title>
 <meta name="description" content="Looking for a data-driven Search Marketer who specializes in the Mindset SEO for Real Estate Education market? Learn more about my SEO, PPC, &amp; Paid Social services."/>
 <link rel="canonical" href="https://keiondedwards.com/" /> 
